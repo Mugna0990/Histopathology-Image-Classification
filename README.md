@@ -1,2 +1,4 @@
 # Histopathology-Image-Classification
-predict molecular subtypes from high-resolution tissue images
+
+> 📄 **Start here: read [`report.pdf`](./report.pdf) for the full project description, methodology, and results.**
+ 
